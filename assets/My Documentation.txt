@@ -1,0 +1,40 @@
+KING ROBERT CREATION
+FUll React-Native Expo App With Tailwindcss Documentation
+
+Install Node.Js, Install Expo Global, Install NPM.
+
+Download Node.Js from Web
+
+Expo Install Command: npm i -g expo-cli
+NPM Install Command: sudo npm install -g n
+
+Download and run Xcode for iOS simulator.
+Start Simulator: npm start
+
+Create App: npx create-expo-app “App-Name”
+
+Install Tailwind With The Command Below: 
+yarn add nativewind
+yarn add --dev tailwindcss
+
+NB: Go to https://www.nativewind.dev/quick-starts/expo for complete Setup Documentation
+
+
+Install React Navigation With The Command Below:
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+
+Go to https://reactnavigation.org/docs/getting-started/ for complete Documentation
+
+Install Native Stack With The Command
+npm install @react-navigation/native-stack
+
+Go to https://reactnavigation.org/docs/hello-react-navigation for complete Documentation
+
+
+Install A Few Extensions On Your VScode like "Tailwind Intellisense", Liveserver, Prettier, ES7 React Native Snippet
+
+Important Shortcuts for React Native Development Below:
+
+1, Option Spacebar to import component at the top
+2, rnfe to import react native on component
